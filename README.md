@@ -52,5 +52,4 @@ This will run a 30-second test with 10 virtual users for each of the two scenari
 - `docker-compose.yml`: Docker Compose file for running PostgreSQL.
 - `init.sql`: SQL script to create the sample table.
 - `package.json`: Node.js project file.
-- `GEMINI.md`: The initial request.
 - `README.md`: This file.
